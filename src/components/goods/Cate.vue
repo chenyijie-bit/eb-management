@@ -244,4 +244,8 @@ export default {
 };
 </script>
 
-<style scoped lang="less"></style>
+<style scoped lang="less">
+.el-cascader {
+  width: 100%;
+}
+</style>
